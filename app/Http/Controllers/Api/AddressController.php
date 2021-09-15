@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Http\Resources\AddressCollection;
 use App\Address;
+
 use Illuminate\Http\Request;
 use App\Http\Controllers\Api\BaseController as BaseController;
 
